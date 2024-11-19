@@ -22,19 +22,19 @@
     "url": "https://homeassistant.tail0b5c3.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.tail0b5c3.ts.net.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 881,
-    "timeWeek": 630,
-    "timeMonth": 630,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 603,
+    "timeDay": 675,
+    "timeWeek": 603,
+    "timeMonth": 603,
+    "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-11-19": 0
+      "2024-11-19": 7
     }
   }
 ]
