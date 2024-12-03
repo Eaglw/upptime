@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 89,
-    "timeWeek": 104,
+    "timeDay": 92,
+    "timeWeek": 102,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -22,17 +22,19 @@
     "url": "https://homeassistant.tail0b5c3.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.tail0b5c3.ts.net.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 558,
-    "timeWeek": 642,
-    "timeMonth": 622,
-    "timeYear": 622,
-    "dailyMinutesDown": {}
+    "time": 618,
+    "timeDay": 531,
+    "timeWeek": 634,
+    "timeMonth": 618,
+    "timeYear": 618,
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   }
 ]
