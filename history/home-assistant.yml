@@ -1,7 +1,7 @@
 url: https://homeassistant.tail0b5c3.ts.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-02T19:55:01.488Z
+status: up
+code: 200
+responseTime: 591
+lastUpdated: 2025-06-02T20:12:11.847Z
 startTime: 2024-11-18T21:46:39.279Z
 generator: Upptime <https://github.com/upptime/upptime>
