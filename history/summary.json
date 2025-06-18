@@ -22,7 +22,7 @@
     "url": "https://homeassistant.tail0b5c3.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.tail0b5c3.ts.net.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "97.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 686,
     "timeYear": 872,
     "dailyMinutesDown": {
+      "2025-06-18": 0,
       "2025-06-02": 17,
       "2025-05-26": 29,
       "2025-05-18": 24,
