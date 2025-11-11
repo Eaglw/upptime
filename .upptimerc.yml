@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: home assistant
-    url: https://homeassistant.tail0b5c3.ts.net
+    url: https://hassio.casainfante.qzz.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
