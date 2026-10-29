@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 136,
-    "timeDay": 59,
-    "timeWeek": 101,
-    "timeMonth": 98,
+    "timeDay": 95,
+    "timeWeek": 105,
+    "timeMonth": 97,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2025-12-13": 31,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hassio.casainfante.qzz.io.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "46.30%",
+    "uptime": "46.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1501,
-    "timeDay": 57,
-    "timeWeek": 70,
+    "time": 1499,
+    "timeDay": 55,
+    "timeWeek": 69,
     "timeMonth": 70,
-    "timeYear": 1687,
+    "timeYear": 1682,
     "dailyMinutesDown": {
-      "2026-10-28": 289,
+      "2026-10-29": 299,
+      "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
@@ -404,8 +405,7 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440,
-      "2025-10-29": 1440
+      "2025-10-30": 1440
     }
   }
 ]
